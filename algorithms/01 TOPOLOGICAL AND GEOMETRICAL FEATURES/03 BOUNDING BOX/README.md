@@ -1,0 +1,1 @@
+The size of an object can be indicated by the dimensions of the bounding box which is the smallest parallelepiped enclosing the object. The dimensions of this box can be found by scanning the 3D image and finding the object voxels with the minimum/maximum coordinates along each dimension.
