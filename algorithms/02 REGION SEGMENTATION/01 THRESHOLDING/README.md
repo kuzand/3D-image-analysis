@@ -1,0 +1,1 @@
+Thresholding is the simplest method of segmenting images. Given some threshold value T, the voxels of a 3D image are assigned the value 1 if their value is above the threshold T, otherwise they are assigned the value 0. The success of segmentation by thresholding is based on the selection of the appropriate threshold. 
