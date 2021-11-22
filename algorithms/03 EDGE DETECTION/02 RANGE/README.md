@@ -1,0 +1,1 @@
+A different approach to edge detection is to search points in 3D image where the local dispersion is large. Such a local dispersion operator is the range operator, which is the difference between the maximum and minimum intensity values within a 3D window.
