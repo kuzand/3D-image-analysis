@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+"""
+@author: kuzand
+"""
 
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
@@ -115,7 +118,3 @@ def draw_bbox_2d(img, x_min, y_min, x_max, y_max):
     ax.add_patch(rect)
 
     plt.show()
-
-
-
-
