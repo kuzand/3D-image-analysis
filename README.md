@@ -1,21 +1,21 @@
 # 3D-image-analysis
-Implementation of some 3D image analysis algorithms for my Digital Image Processing course.
+Implementation of some 3D/2D image analysis algorithms for my Digital Image Processing course.
 
 ### Contents
 
 1. Topological and geometrical features
-   - Connected components
-   - Euler number
-   - Bounding box
-   - Surface detection
+   * Connected components
+   * Euler number
+   * Bounding box
+   * Surface detection
 2. Region Segmentation
-   - Thresholding
-   - Region grow
-   - Region split
-   - Region merge
+   * Thresholding
+   * Region grow
+   * Region split
+   * Region merge
 3. Edge detection
-   - Sobel
-   - Range
+   * Sobel
+   * Range
 
 ### References
 * Pitas I, Nikolaidis N, “3-D image processing algorithms”, Wiley (2000).
