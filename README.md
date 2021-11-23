@@ -1,5 +1,5 @@
 # 3D-image-analysis
-Implementation of some 3D/2D image analysis algorithms for my Digital Image Processing course, with the purpose of better understanding how they work and not their usage in practice.
+Implementation of some 3D/2D image analysis algorithms for my Digital Image Processing course, with the purpose of better understanding how they work.
 
 ### Contents
 
